@@ -73,7 +73,7 @@
   margin: 0px;
   padding: 25px;
   border-radius: 8px;
-  background: #29344b;
+  background: #ccccff;
   align-items: center;
 }
 
@@ -85,7 +85,7 @@
 }
 
 .header {
-  color: #df5e48;
+  color: #b266ff;
   text-align: center;
   font-size: 40px;
   font-weight: 600;
@@ -125,14 +125,14 @@
   border-radius: 5px;
   margin-bottom: 16px;
   width: 70%;
-  background-color: #df5e48;
+  background-color: #6b1cb6;
   color: whitesmoke;
   font-size: 18px;
 }
 
 .mathButton:hover {
-  background: #c5513c;
-  color: whitesmoke;
+  background: #bd5df0;
+  color: rgb(195, 43, 195);
 }
 
 .disconnectwalletButton {
@@ -149,7 +149,7 @@
   min-width: 270px;
 }
 .disconnectwalletButton:hover {
-  background: rgb(223, 223, 223);
+  background: rgb(93, 13, 172);
   color: black;
 }
 
@@ -157,7 +157,7 @@
   font-size: 22px;
   margin-top: 12px;
   margin-bottom: 12px;
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
@@ -170,7 +170,7 @@
   position: relative;
 }
 
-.songs-container {
+.cuisine-container {
   margin-top: 10px;
   min-height: 150px;
   border-radius: 8px;
@@ -182,7 +182,7 @@
   padding: 12px;
 }
 
-.song-card {
+.cuisine-card {
     margin: 0px 11px 0px 10px;
     width: -webkit-fill-available;
     text-align: center;
